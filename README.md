@@ -8,6 +8,6 @@
 
 📚 Apart from coding, I enjoy exploring the latest tech trends.Let's connect and share our passion for coding!
 
-🌐 Connect with me on www.linkedin.com/in/hibmrym87
+🌐 Connect with me on www.linkedin.com/in/hibamariyamn/
 
 
