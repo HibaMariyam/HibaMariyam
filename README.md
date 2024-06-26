@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br> 🙎🏻‍♀️ I am Hiba Mariyam <br>
-<br>👋 Flutter and React developer, Kerala.<br><br>📱 Passionate about Flutter and React with projects showcasing its power.<br><br>💻 Utilize Django REST for robust backend solutions.<br><br>🌱 Always learning, always coding.
+<br>👋 Flutter and React developer, Kerala.<br><br>📱 Passionate about Flutter and React with projects showcasing its power.<br><br>💻 Utilize Django REST for robust backend solutions.<br><br>👉🏼 Looking forward to collaborate on open source projects.<br></br>🌱 Always learning, always coding.
 
 
 ## 🌐 Socials:
